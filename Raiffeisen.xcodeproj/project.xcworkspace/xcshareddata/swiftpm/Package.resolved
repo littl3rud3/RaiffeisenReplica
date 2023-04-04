@@ -1,0 +1,23 @@
+{
+  "pins" : [
+    {
+      "identity" : "d3-stories-instagram",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/The-Igor/d3-stories-instagram.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "c7af21702f6f6f05a8a84bf7618fb7a9bf70668d"
+      }
+    },
+    {
+      "identity" : "swiftui-introspect",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/siteline/SwiftUI-Introspect.git",
+      "state" : {
+        "revision" : "f2616860a41f9d9932da412a8978fec79c06fe24",
+        "version" : "0.1.4"
+      }
+    }
+  ],
+  "version" : 2
+}
